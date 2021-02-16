@@ -1,7 +1,6 @@
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.deps.json
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
-C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csprojAssemblyReference.cache
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfoInputs.cache
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfo.cs
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.CoreCompileInputs.cache

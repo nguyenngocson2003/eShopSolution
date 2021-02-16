@@ -9,7 +9,6 @@ C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\bin\Debug\n
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\bin\Debug\netcoreapp3.1\eShopSolution.WebApp.pdb
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\bin\Debug\netcoreapp3.1\eShopSolution.WebApp.Views.dll
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\bin\Debug\netcoreapp3.1\eShopSolution.WebApp.Views.pdb
-C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\obj\Debug\netcoreapp3.1\eShopSolution.WebApp.csprojAssemblyReference.cache
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\obj\Debug\netcoreapp3.1\eShopSolution.WebApp.AssemblyInfoInputs.cache
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\obj\Debug\netcoreapp3.1\eShopSolution.WebApp.AssemblyInfo.cs
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\obj\Debug\netcoreapp3.1\eShopSolution.WebApp.csproj.CoreCompileInputs.cache

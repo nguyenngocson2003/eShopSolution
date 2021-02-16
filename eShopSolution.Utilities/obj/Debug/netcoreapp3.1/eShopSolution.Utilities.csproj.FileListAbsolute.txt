@@ -1,0 +1,9 @@
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.deps.json
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Utilities\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.csprojAssemblyReference.cache
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.AssemblyInfoInputs.cache
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.AssemblyInfo.cs
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.csproj.CoreCompileInputs.cache
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Utilities\obj\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
