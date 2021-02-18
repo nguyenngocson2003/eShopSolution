@@ -34,3 +34,4 @@ C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\obj\Debug\n
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\obj\Debug\netcoreapp3.1\eShopSolution.WebApp.pdb
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\obj\Debug\netcoreapp3.1\eShopSolution.WebApp.genruntimeconfig.cache
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\obj\Debug\netcoreapp3.1\eShopSolution.WebApp.csproj.CopyComplete
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.WebApp\obj\Debug\netcoreapp3.1\eShopSolution.WebApp.csprojAssemblyReference.cache

@@ -3,6 +3,10 @@ C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\bin\Debug\net
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfoInputs.cache
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfo.cs
-C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.CoreCompileInputs.cache
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.dll
 C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.json
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.dev.json
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.genruntimeconfig.cache
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.CoreCompileInputs.cache
+C:\MrNgocSon_MyData\Tedu\Thuchanh\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csprojAssemblyReference.cache
